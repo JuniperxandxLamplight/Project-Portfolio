@@ -102,3 +102,7 @@ a{
 .three{
   color: rgba(0, 82, 0, .25)
 }
+.quote{
+  float: right;
+  font-size: 11px;
+}
