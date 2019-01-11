@@ -1,7 +1,7 @@
 body{
   font-family: Georgia;
   color: #005200;
-  background-image: url("https://media3.giphy.com/media/OK5LK5zLFfdm/giphy.gif?cid=3640f6095c3915f56b6a67364d50ef1c");
+  background-image: url ##fix before turning in!!## ("https://media3.giphy.com/media/OK5LK5zLFfdm/giphy.gif?cid=3640f6095c3915f56b6a67364d50ef1c");
   background-size: cover;
   text-shadow: 0px 1px rgba(135, 135, 135, .5)
 }
@@ -45,7 +45,7 @@ a{
   padding-right: none;
   margin-right: none;
   font-weight: bold;
-  text-shadow: 0px 2px rgba(135, 135, 135, .5);
+  text-shadow: 0px 1px rgba(135, 135, 135, .5);
 }
 .tabs a:hover{
   border-radius: 10px;
@@ -89,4 +89,16 @@ a{
 .information p{
   font-size: 15px;
   text-align: justify;
+}
+.big{
+  font-size: 20px;
+}
+.one{
+  color: rgba(0, 82, 0, .75)
+}
+.two{
+  color: rgba(0, 82, 0, .50)
+}
+.three{
+  color: rgba(0, 82, 0, .25)
 }
