@@ -19,6 +19,12 @@ a{
   padding-top: 10px;
   padding-left: 10px;
   margin-top: 250px;
+  box-shadow: 0px 1px #b3b3b3,
+              0px 2px #a6a6a6,
+              0px 3px #999999,
+              0px 4px #8c8c8c,
+              0px 5px #808080,
+              0px 7px #737373;
 }
 .sidebar a:hover{
   border-radius: 20px;
@@ -42,6 +48,10 @@ a{
   border-radius: 10px;
   font-size: 15px;
   background-color: #D9D9D9;
+  box-shadow: 0px 1px #999999,
+              0px 2px #8c8c8c,
+              0px 3px #808080,
+              0px 5px #737373;
 }
 .bottomtabs{
   margin-left: 250px;
@@ -49,11 +59,20 @@ a{
 }
 
 .information{
+  margin-top: 7px;
   background-color: #D9D9D9;
   padding: 20px;
   border-radius: 20px;
+  box-shadow: 0px 1px#cccccc,
+              0px 2px #bfbfbf,
+              0px 3px #b3b3b3,
+              0px 4px #a6a6a6,
+              0px 5px #999999,
+              0px 6px #8c8c8c,
+              0px 7px #808080,
+              0px 10px #737373;
 }
-.information img{
+.information img {
   float: right;
 }
 .information p{
