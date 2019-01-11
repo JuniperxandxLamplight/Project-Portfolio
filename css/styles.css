@@ -1,4 +1,10 @@
-body {
-  background-image: url("pics/face.jpg");
+.header img{
+  float: top;
+  margin-left: 220px;
+  padding-bottom: none;
+  margin-bottom: none;
+}
 
+.tabs{
+  padding-top: none;
 }
