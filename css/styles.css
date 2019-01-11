@@ -1,7 +1,8 @@
 body{
   font-family: Georgia;
   color: #005200;
-  background-color: #878787;
+  background-image: url("https://media3.giphy.com/media/OK5LK5zLFfdm/giphy.gif?cid=3640f6095c3915f56b6a67364d50ef1c");
+  background-size: cover;
 }
 a{
   color: #005200
