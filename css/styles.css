@@ -1,5 +1,10 @@
 body{
   font-family: Georgia;
+  color: #005200;
+  background-color: #878787;
+}
+a{
+  color: #005200
 }
 
 .header img{
@@ -17,8 +22,15 @@ body{
   border: solid 1px #C4C4C4;
   border-radius: 10px;
   font-size: 15px;
+  background-color: #D9D9D9;
 }
 .bottomtabs{
   margin-left: 250px;
   padding-right: none;
+}
+
+.information{
+  background-color: #D9D9D9;
+  padding: 20px;
+  border-radius: 20px;
 }
