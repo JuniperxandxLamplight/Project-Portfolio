@@ -7,14 +7,34 @@ a{
   color: #005200
 }
 
+.sidebar{
+  background-color: #D9D9D9;
+  border-radius: 20px;
+  width: 160px;
+  position: fixed;
+  z-index: 1;
+  left: 2;
+  overflow-x: hidden;
+  padding-top: 10px;
+  padding-left: 10px;
+  margin-top: 250px;
+}
+.sidebar a:hover{
+  border-radius: 20px;
+    color: #39C4BC;
+}
+
 .header img{
-  float: top;
   margin-left: 220px;
 }
 
 .tabs{
   padding-right: none;
   margin-right: none;
+}
+.tabs a:hover{
+  border-radius: 10px;
+  color: #39C4BC;
 }
 .tabs li{
   border: solid 1px #C4C4C4;
@@ -31,4 +51,11 @@ a{
   background-color: #D9D9D9;
   padding: 20px;
   border-radius: 20px;
+}
+.information img{
+  float: right;
+}
+.information p{
+  font-size: 15px;
+  text-align: justify;
 }
