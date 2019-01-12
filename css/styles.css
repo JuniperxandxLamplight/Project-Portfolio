@@ -1,7 +1,7 @@
 body{
   font-family: Georgia;
   color: #005200;
-  background-image: url ##fix before turning in!!## ("https://media3.giphy.com/media/OK5LK5zLFfdm/giphy.gif?cid=3640f6095c3915f56b6a67364d50ef1c");
+  background-image: url("https://media3.giphy.com/media/OK5LK5zLFfdm/giphy.gif?cid=3640f6095c3915f56b6a67364d50ef1c");
   background-size: cover;
   text-shadow: 0px 1px rgba(135, 135, 135, .5)
 }
