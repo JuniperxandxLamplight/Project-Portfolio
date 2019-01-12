@@ -10,7 +10,7 @@ _This website will act as an online hub for projects I have done, that can be pe
 
 ## Setup/Installation Requirements
 
-* _Go to JuniperxandxLamplight.github.io/portfolio_
+* _Go to JuniperxandxLamplight.github.io/Project-Portfolio_
 * _When you want to access a project folder, click the link that says "You can clone this webpage here"_
 * _Copy the clone link from GitHub and clone it in your computer's terminal_
 * _The project folder will now be on your computer for you to see and interact with.
